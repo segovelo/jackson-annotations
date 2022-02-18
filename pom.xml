@@ -42,6 +42,13 @@
 		    <scope>test</scope>
 		</dependency>
 		
+		
+  <!-- <dependency>
+			<groupId>com.segovelo</groupId>
+	        <artifactId>api.core.utils</artifactId>
+	        <version>0.0.2</version>		
+		</dependency>	 -->	
+		
 	</dependencies>
 
 	<build>

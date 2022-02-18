@@ -21,6 +21,7 @@ public class Controller {
 	      .readerFor(MyBean.class)
 	      .readValue(result);
 	    System.out.println("My bean : "+ resultBean.getTheName());
+	    
 	}
 
 }
